@@ -18,6 +18,7 @@ public class Main {
             System.out.println("");
         }
 
+        System.out.println("yes");
         for (int j = 0; j <10; j++) {
             for (int i = 9; i > -1; i--) {
                 int k=i;
