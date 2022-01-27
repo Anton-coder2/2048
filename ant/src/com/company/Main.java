@@ -6,7 +6,7 @@ public class Main {
 
         /*Все коммиты*/
         // main commit 1
-
+        // main commit 2
         int[][] l = new int[10][10];
 
         for (int i = 0; i < 10; i++)
